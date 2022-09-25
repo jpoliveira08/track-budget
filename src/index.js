@@ -1,3 +1,5 @@
+import React from 'react';
+
 // Importanto React object do ReactDom
 import ReactDOM from 'react-dom/client';
 
